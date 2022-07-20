@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065106389178",
+    "project_id": "fir-authintication-3bdfc",
+    "storage_bucket": "fir-authintication-3bdfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065106389178:android:214de1ea6cc120e2c32a83",
+        "android_client_info": {
+          "package_name": "com.webskitters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065106389178-scp2rv5ab9i0ujc962tjtq7niai535ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlsyv33VLwUXjFGuqWiE49AEEw0SR8qDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065106389178-scp2rv5ab9i0ujc962tjtq7niai535ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
